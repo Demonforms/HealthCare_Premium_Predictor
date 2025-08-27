@@ -1,5 +1,7 @@
 # Health Insurance Premium Predictor
 
+Check out the live app here: [Streamlit App](https://demonforms-healthcare.streamlit.app/)
+
 A **Streamlit-based web application** that predicts **health insurance premiums in INR** using a trained **statistical regression machine learning model**.  
 
 ---
